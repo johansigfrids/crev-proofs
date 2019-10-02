@@ -1,0 +1,16 @@
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-10-02T19:24:43.857668300+03:00"
+from:
+  id-type: crev
+  id: U9hSNG1ryjv6TiVC6U8DxpD-Jo8ZHInYKfavTQCT9q4
+  url: "https://github.com/johansigfrids/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+-----BEGIN CREV TRUST SIGNATURE-----
+30fa9UOKrPql1ms5EfiKlOjQ4fazqh2-tD6yDzG799GkMQckMgQzLpCHyioeUVHSkubv5lGVgYPNnRm-bVCtCg
+-----END CREV TRUST-----
+
